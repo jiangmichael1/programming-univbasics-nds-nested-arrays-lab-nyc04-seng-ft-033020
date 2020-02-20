@@ -25,8 +25,8 @@ end
 
 def sorted_matrix
   [
-    ["Grapefruit", "Pineapple", "Oranges", "Watermelon","Eggplant"].sort,
-    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"].sort
+    [CONVENTIONAL_PRODUCE.sort],
+    [ORGANIC_PRODUCE.sort]
   ]
 
 end
